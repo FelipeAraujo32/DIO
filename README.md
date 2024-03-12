@@ -1,6 +1,9 @@
 # Portfólio de Projetos da Digital Innovation One (DIO)
-
 Este repositório contém uma coleção de projetos desenvolvidos por mim como parte dos cursos e bootcamps oferecidos pela Digital Innovation One (DIO).
+
+<div align="center">
+<img src="https://www.ifsc.edu.br/documents/1035121/2170426/dio.png/ab47310a-b7a6-49d2-b3c1-72e88a7c99ed?t=1625144670996" alt="Logo Thymeleaf" width="400px">
+</div>
 
 ## Sobre a DIO
 
